@@ -1,0 +1,4 @@
+class my name
+{
+system.out.print("My Name")
+}
